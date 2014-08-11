@@ -1,3 +1,4 @@
+<pre>
 ================================================================================
 + THIS DOCUMENT IS FOR USE WITHIN THE PLANET EARTH ONLY. ANY EXPOSURE TO ALIEN +
 + BEINGS WILL RESULT IN SEVERE LEGAL PUNISHMENT AND/OR EJECTION FROM EARTH VIA +
@@ -249,3 +250,4 @@ OPERATION IN YOUR APPLICATION.
                                /)
                               (/
                 (Signed by Cpt. Cameron Owen, EAF-300157411)
+</pre>
